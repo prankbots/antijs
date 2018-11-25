@@ -16,9 +16,13 @@ pip3 install pafy
 pip3 install thrift==0.11.0
 ```
 - untuk memperbaiki no module
-``` pip3 install (modulenya)```
+```
+pip3 install (modulenya)
+```
 - untuk upgrade module
-``` pip3 install (modulenya) --upgrade ```
+```
+pip3 install (modulenya) --upgrade
+```
 
 - request folder
 ```
@@ -28,3 +32,4 @@ thrift
 ```
 
 - Thanks PrankBots
+- Terimakasih untuk selalu menghargai karya indonesia.
